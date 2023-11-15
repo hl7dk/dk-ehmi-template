@@ -1,5 +1,5 @@
 # ig-template-dk
-Template for all MedCom FHIR implementation guides
+Template for all MedCom EHMI implementation guides
 
 Use it by stating 
 
