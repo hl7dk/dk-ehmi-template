@@ -1,20 +1,20 @@
 ﻿{
-  "package-id": "medcom.dk.fhir.template",
-  "title": "Base template for FHIR IGs published by MedCom",
-  "canonical": "http://fhir.org/templates/medcom.dk.fhir.template",
-  "introduction": "This is the basic template for FHIR Guides published by MedCom",
+  "package-id": "medcom.dk.ehmi.template",
+  "title": "Base template for EHMI IGs published by MedCom",
+  "canonical": "http://fhir.org/templates/medcom.dk.ehmi.template",
+  "introduction": "This is the basic template for EHMI Guides published by MedCom",
   "list": [
     {
       "version": "current",
       "desc": "Continuous Integration Build (latest in version control)",
-      "path": "https://github.com/medcomdk/medcom-ig-template",
+      "path": "https://github.com/medcomdk/dk-ehmi-template",
       "status": "ci-build",
       "current": true
     },
     {
       "version": "0.0.1",
       "desc": "First release",
-      "path": "http://fhir.org/templates/medcom.dk.fhir.template/0.0.1",
+      "path": "http://fhir.org/templates/medcom.dk.ehmi.template/0.0.1",
       "status": "release",
       "sequence": "Publications",
       "current": true,
