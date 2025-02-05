@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "type": "fhir.template",
   "license": "CC0-1.0",
-  "description": "MedComs Template - for use with MedCom-published FHIR IGs",
+  "description": "MedComs Template - for use with EHMI-published FHIR IGs",
   "author": "http://github.com/hl7dk",
   "canonical": "http://github.com/hl7dk/dk-ehmi-template",
   "base": "fhir.base.template",
